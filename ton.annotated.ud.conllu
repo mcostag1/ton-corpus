@@ -1,0 +1,280 @@
+# sent_id = prefix:1:0
+# text = Teu ta ki he polise
+1	Teu	Teu	_	v	imp	0	root	_	_
+2	ta	ta	_	prn	prepd|p1|incl|du	1	nsubj	_	_
+3	ki	ki	_	pr	_	5	case	_	_
+4	he	he	_	sdef	_	5	det	_	_
+5	polise	polise	_	n	sg	1	obj	_	_
+
+# sent_id = prefix:2:10
+# text = naʻe sio ʻa e kuli ki he sikulele
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	sio	sio	_	v	trans	0	root	_	_
+3	ʻa	ʻa	_	abs	_	5	case	_	_
+4	e	e	_	sdef	_	5	case	_	_
+5	kuli	kuli	_	n	sg	2	nsubj	_	_
+6	ki	ki	_	pr	_	7	case	_	_
+7	he	he	_	sdef	_	7	det	_	_
+8	sikulele	sikulele	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:3:27
+# text = naʻe tuli ʻe he manupuna ʻa e sikulele
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	tuli	tuli	_	v	intrans	0	root	_	_
+3	ʻe	ʻe	_	erg	_	5	case	_	_
+4	he	he	_	sdef	_	5	det	_	_
+5	manupuna	manupuna	_	_	_	2	nsubj	_	_
+6	ʻa	ʻa	_	abs	_	8	case	_	_
+7	e	e	_	sdef	_	8	det	_	_
+8	sikulele	sikulele	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:4:44
+# text = naʻe tangutu ʻa e pusi ʻi he funga maka
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	tangutu	tangutu	_	v	trans	0	root	_	_
+3	ʻa	ʻa	_	abs	_	5	case	_	_
+4	e	e	_	sdef	_	5	det	_	_
+5	pusi	pusi	_	n	sg	2	nsubj	_	_
+6	ʻi	ʻi	_	pr	_	9	case	_	_
+7	he	he	_	sdef	_	9	det	_	_
+8	funga	funga	_	adj	prenom	9	nmod	_	_
+9	maka	maka	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:5:64
+# text = naʻe ongoʻi ʻe he kuli ʻa e manupuna
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	ongoʻi	ongoʻi	_	v	trans	0	root	_	_
+3	ʻe	ʻe	_	erg	_	5	case	_	_
+4	he	he	_	sdef	_	5	det	_	_
+5	kuli	kuli	_	n	sg	2	nsubj	_	_
+6	ʻa	ʻa	_	abs	_	8	case	_	_
+7	e	e	_	sdef	_	8	det	_	_
+8	manupuna	manupuna	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:6:81
+# text = naʻe fanongo ʻa e kuli ki he manupuna
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	fanongo	fanongo	_	v	trans	0	root	_	_
+3	ʻa	ʻa	_	abs	_	5	case	_	_
+4	e	e	_	sdef	_	5	det	_	_
+5	kuli	kuli	_	n	sg	2	nsubj	_	_
+6	ki	ki	_	pr	_	8	case	_	_
+7	he	he	_	sdef	_	8	det	_	_
+8	manupuna	manupuna	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:7:98
+# text = naʻe kakau ha fonu kovi ki Tongatapu
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	kakau	kakau	_	v	intrans	0	root	_	_
+3	ha	ha	_	ind	_	4	det	_	_
+4	fonu	fonu	_	n	sg	2	nsubj	_	_
+5	kovi	kovi	_	adj	postnom	4	X	_	_
+6	ki	ki	_	pr	_	7	case	_	_
+7	Tongatapu	Tongatapu	_	np	_	2	obj	_	_
+
+# sent_id = prefix:8:113
+# text = naʻe tekeʻi ʻe he tamasiʻi ʻa e taʻahine
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	tekeʻi	tekeʻi	_	vtrans	_	0	root	_	_
+3	ʻe	ʻe	_	erg	_	5	case	_	_
+4	he	he	_	sdef	_	5	det	_	_
+5	tamasiʻi	tamasiʻi	_	n	sg	2	nsubj	_	_
+6	ʻa	ʻa	_	abs	_	8	case	_	_
+7	e	e	_	sdef	_	8	det	_	_
+8	taʻahine	taʻahine	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:9:131
+# text = naʻe siofi ʻe ha sikulele ʻa Pulotu
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	siofi	siofi	_	v	trans	0	root	_	_
+3	ʻe	ʻe	_	erg	_	5	case	_	_
+4	ha	ha	_	ind	_	5	det	_	_
+5	sikulele	sikulele	_	n	sg	2	nsubj	_	_
+6	ʻa	ʻa	_	abs	_	7	case	_	_
+7	Pulotu	Pulotu	_	np	_	2	obj	_	_
+
+# sent_id = prefix:10:146
+# text = naʻe tekeʻi ʻe ha fuʻu kuli ha kiʻi ngoue
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	tekeʻi	tekeʻi	_	v	trans	0	root	_	_
+3	ʻe	ʻe	_	erg	_	5	case	_	_
+4	ha	ha	_	ind	_	5	det	_	_
+5	fuʻu	fuʻu	_	adj	prenom	6	amod	_	_
+6	kuli	kuli	_	n	sg	2	nsubj	_	_
+7	ha	ha	_	ind	_	9	det	_	_
+8	kiʻi	kiʻi	_	adj	prenom	9	amod	_	_
+9	ngoue	ngoue	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:12:186
+# text =  naʻe mohe ʻa e tangata naʻa ne kai e sisi
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	mohe	mohe	_	v	trans	0	root	_	_
+3	ʻa	ʻa	_	abs	_	5	case	_	_
+4	e	e	_	sdef	_	5	det	_	_
+5	tangata	tangata	_	n	sg	2	nsubj	_	_
+6	naʻa	naʻa	_	vaux	past	8	aux	_	_
+7	ne	ne	_	prn	prepd|p3|sg	5	nmod	_	_
+8	kai	kai	_	v	trans	7	expl	_	_
+9	e	e	_	sdef	_	10	det	_	_
+10	sisi	sisi	_	n	sg	8	obj	_	_
+
+# sent_id = prefix:13:207
+# text = naʻe kaka he ʻakau ʻa e sikulele naʻe tuli ʻe he kuli
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	kaka	kaka	_	v	trans	0	root	_	_
+3	he	he	_	sdef	_	4	det	_	_
+4	ʻakau	ʻakau	_	n	sg	2	obj	_	_
+5	ʻa	ʻa	_	abs	_	7	case	_	_
+6	e	e	_	sdef	_	7	det	_	_
+7	sikulele	sikulele	_	n	sg	2	nsubj	_	_
+8	naʻe	naʻe	_	vaux	past	9	aux	_	_
+9	tuli	tuli	_	v	trans	12	expl	_	_
+10	ʻe	ʻe	_	erg	_	12	case	_	_
+11	he	he	_	sdef	_	12	det	_	_
+12	kuli	kuli	_	n	sg	9	obj	_	_
+
+# sent_id = prefix:14:232
+# text = ʻOku nau lata kinautolu
+1	ʻOku	ʻoku	_	vaux	pres	2	aux	_	_
+2	nau	nau	_	prn	prepd|p3|pl	3	nsubj	_	_
+3	lata	lata	_	adj	postnom	0	root	_	_
+4	kinautolu	kinautolu	_	prn	postd|p3|pl	3	nsubj	_	_
+
+# sent_id = prefix:15:241
+# text = Ko e ʻapi pē ʻoʻoku
+1	Ko	ko	_	pr	_	5	case	_	_
+2	e	e	_	sdef	_	3	det	_	_
+3	ʻapi	ʻapi	_	n	_	4	nsubj	_	_
+4	pē	pē	_	adv	_	5	advmod	_	_
+5	ʻoʻoku	ʻoʻoku	_	adj	pronom	0	root	_	_
+
+# sent_id = prefix:16:252
+# text = ʻOku ou kai ika
+1	ʻOku	ʻoku	_	vaux	pres	3	aux	_	_
+2	ou	ou	_	prn	prepd|p1|pres|excl|sg	3	nsubj	_	_
+3	kai	kai	_	v	trans	0	root	_	_
+4	ika	ika	_	n	sg	3	obj	_	_
+
+# sent_id = prefix:17:261
+# text =  Ko hai ʻoku ʻoʻona e fale ni
+1	Ko	ko	_	pr	_	2	case	_	_
+2	hai	hai	_	prn	_	0	root	_	_
+3	ʻoku	ʻoku	_	vaux	pres	2	aux	_	_
+4	ʻoʻona	ʻoʻona	_	adj	pronom	6	amod	_	_
+5	e	e	_	sdef	_	7	det	_	_
+6	fale	fale	_	n	sg	6	obj	_	_
+7	ni	ni	_	det	_	6	det	_	_
+
+# sent_id = prefix:18:276
+# text = Fēfē hake
+1	Fēfē	fēfē	_	adv	_	0	root	_	_
+2	hake	hake	_	pr	_	1	case	_	_
+
+# sent_id = prefix:19:281
+# text = ʻOku ma fiefia
+1	ʻOku	ʻoku	_	vaux	pres	3	aux	_	_
+2	ma	ma	_	prn	prepd|p1|excl	3	nsubj	_	_
+3	fiefia	fiefia	_	adj	postnom	0	root	_	_
+
+# sent_id = prefix:20:288
+# text = ʻOku kakau ha kuli pea ha poto
+1	ʻOku	ʻoku	_	vaux	pres	2	aux	_	_
+2	kakau	kakau	_	v	intrans	0	root	_	_
+3	ha	ha	_	ind	_	4	det	_	_
+4	kuli	kuli	_	n	sg	2	nsubj	_	_
+5	pea	pea	_	cnjcoo	_	6	cc	_	_
+6	ha	ha	_	ind	_	7	det	_	_
+7	poto	poto	_	n	sg	4	X	_	_
+
+# sent_id = prefix:21:303
+# text = ʻOku puke ʻa e fanga kuli
+1	ʻOku	ʻoku	_	vaux	pres	2	aux	_	_
+2	puke	puke	_	adj	postnom	0	root	_	_
+3	ʻa	ʻa	_	abs	_	4	X	_	_
+4	e	e	_	sdef	_	5	det	_	_
+5	fanga	fanga	_	cl	pl	6	amod	_	_
+6	kuli	kuli	_	n	pl	2	X	_	_
+
+# sent_id = prefix:22:316
+# text = ʻOku ʻuliʻuli e ongo puaka
+1	ʻOku	ʻoku	_	vaux	pres	2	aux	_	_
+2	ʻuliʻuli	ʻuliʻuli	_	adj	postnom	0	root	_	_
+3	e	e	_	sdef	_	5	det	_	_
+4	ongo	ongo	_	cl	du	5	amod	_	_
+5	puaka	puaka	_	n	du	2	nsubj	_	_
+
+# sent_id = prefix:23:327
+# text =  Sai pē
+1	Sai	sai	_	adj	postnom	0	root	_	_
+2	pē	pē	_	adv	_	1	advmod	_	_
+
+# sent_id = prefix:24:332
+# text = ʻOku ou tamateʻi e ʻanga
+1	ʻOku	ʻoku	_	vaux	pres	3	aux	_	_
+2	ou	ou	_	prn	prepd|p1|pres|excl|sg	3	nsubj	_	_
+3	tamateʻi	tamateʻi	_	v	trans	0	root	_	_
+4	e	e	_	sdef	_	5	det	_	_
+5	ʻanga	ʻanga	_	n	sg	3	obj	_	_
+
+# sent_id = prefix:25:343
+# text =  ʻOku tau ilifia
+1	ʻOku	ʻoku	_	vaux	pres	2	aux	_	_
+2	tau	tau	_	v	intrans	0	root	_	_
+3	ilifia	ilifia	_	adj	postnom	2	amod	_	_
+
+# sent_id = prefix:26:350
+# text = ʻOku fuʻu e tamasiʻi
+1	ʻOku	ʻoku	_	vaux	pres	2	aux	_	_
+2	fuʻu	fuʻu	_	adj	_	0	root	_	_
+3	e	e	_	sdef	_	4	det	_	_
+4	tamasiʻi	tamasiʻi	_	n	sg	2	nsubj	_	_
+
+# sent_id = prefix:27:359
+# text = ʻOku ʻa e tamasiʻi
+1	ʻOku	ʻoku	_	vaux	pres	2	aux	_	_
+2	ʻa	ʻa	_	v	trans	0	root	_	_
+3	e	e	_	sdef	_	4	det	_	_
+4	tamasiʻi	tamasiʻi	_	n	sg	2	nsubj	_	_
+
+# sent_id = prefix:28:368
+# text =  ʻOku ʻikai te fiefia
+1	ʻOku	ʻoku	_	vaux	pres	4	aux	_	_
+2	ʻikai	ʻikai	_	neg	_	4	amod	_	_
+3	te	te	_	prn	prepd|p1|incl|sg	4	nsubj	_	_
+4	fiefia	fiefia	_	adj	postnom	0	root	_	_
+
+# sent_id = prefix:29:377
+# text = ʻOku ʻikai ke vaivai
+1	ʻOku	ʻoku	_	vaux	pres	4	aux	_	_
+2	ʻikai	ʻikai	_	neg	_	4	amod	_	_
+3	ke	ke	_	prn	prepd|p2|sg	4	nsubj	_	_
+4	vaivai	vaivai	_	adj	postnom	0	root	_	_
+
+# sent_id = prefix:30:386
+# text = ʻOku ou inu vai
+1	ʻOku	ʻoku	_	vaux	pres	3	aux	_	_
+2	ou	ou	_	prn	prepd|p1|pres|excl|sg	3	nsubj	_	_
+3	inu	inu	_	v	_	0	root	_	_
+4	vai	vai	_	n	sg	3	obj	_	_
+
+# sent_id = prefix:31:395
+# text =  ʻOku ʻuha
+1	ʻOku	ʻoku	_	vaux	pres	2	aux	_	_
+2	ʻuha	ʻuha	_	v	intrans	0	root	_	_
+
+# sent_id = prefix:32:400
+# text =  ʻOku vela ʻaupito ʻi he ʻaho ni
+1	ʻOku	ʻOku	_	vaux	pres	2	aux	_	_
+2	vela	vela	_	adj	postnom	7	amod	_	_
+3	ʻaupito	ʻaupito	_	adj	postnom	0	root	_	_
+4	ʻi	ʻi	_	pr	_	6	case	_	_
+5	he	he	_	sdef	_	6	det	_	_
+6	ʻaho	ʻaho	_	n	sg	2	nsubj	_	_
+7	ni	ni	_	det	_	6	det	_	_
+
+# sent_id = prefix:33:415
+# text =  Siʻaku puaka
+1	Siʻaku	siʻaku	_	prn	poss|ind|p1|excl|sg|emotional	2	amod	_	_
+2	puaka	puaka	_	n	sg	0	root	_	_
+
+

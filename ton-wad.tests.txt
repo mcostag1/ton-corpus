@@ -1,0 +1,7 @@
+Error: Mode ton-wad does not exist. Try one of:
+  ton-disam
+  ton-gener
+  ton-lexc
+  ton-morph
+  ton-tagger
+  ton-twol

@@ -1,0 +1,256 @@
+"<naʻa>"
+	"naʻa" vaux past #1->2
+"<ku>"
+	"ku" prn prepd p1 fti excl pl @nsubj #2->3
+"<kaukau>"
+	"kaukau" v intrans @root #3->0
+"<he>"
+	"he" sdef @det #4->5
+"<vai>"
+	"vai" n sg @nmod #5->1
+"<ʻoku>"
+	"ʻoku" vaux pres @aux #1->2
+"<ʻofa>"
+	"ʻofa" v intrans @root #2->0
+"<ʻa>"
+	"ʻa" abs @case #3->2
+"<e>"
+ 	"e" sdef @det #4->5
+"<tamai>"
+	"tamai" n sg @nsubj #5->2
+"<he>"
+	"he" sdef @det #6->7
+"<ʻofefine>"
+	"ʻofefine" n sg @obj #7->2
+
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<lotomamahi>"
+	"lotomamahi" v intrans @root #2->0
+"<ʻa>"
+	"ʻa" abs @case #3->2
+"<Sione>"
+	"Sione" np @nsubj #4->2
+
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<tuli>"
+	"tuli" v trans @root #2->0
+"<ʻe>"
+	"ʻe" erg @case #3->2
+"<he>"
+	"he" sdef @det #4->5
+"<sikulele>"
+	"sikulele" n sg @nsubj #5->2
+"<e>"
+	"e" sdef @det #6->7
+"<kuli>"
+	"kuli" n sg @obj #5->2
+
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<tuli>"
+	"tuli" v trans @root #2->0
+"<au>"
+	"au" prn postd pl excl sg @obj #3->2
+"<ʻe>"
+	"ʻe" erg @case #4->2
+"<he>"
+	"he" sdef @det #5->6
+"<kuli>"
+	"kuli" n sg @nsunj #6->2
+
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<tuli>"
+	"tuli" v trans @root #2->0
+"<ʻe>"
+	"ʻe" vaux fti @case #3->2
+"<he>"
+	"he" sdef @det #4->5
+"<manupuna>"
+	"manupuna" n sg @nsubj #5->2
+"<ʻa>"
+	"ʻa" abs @case #6->2
+"<e>"
+	"e" sdef @det #7->8
+"<sikulele>"
+	"sikulele" n sg @nsubj #8->2
+
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<mohe>"
+	"mohe" v intrans @root #2->0
+"<e>"
+	"e" sdef @det #3->4
+"<kuli>" 
+	"kuli" n sg @nsubj #4->2
+"<ʻi>"
+	"ʻi" pr @case #5->7
+"<he>"
+	"he" sdef @det #6->7
+"<hala>"
+	"hala" n sg @obj #4->2
+
+
+"<ʻi>"
+	"ʻi" pr @case #1->3
+"<he>"
+	"he" sdef @det #2->3
+"<hala>"
+	"hala" n sg @nmod #3->7
+"<naʻe>"
+	"naʻe" vaux past @aux #4->5
+"<mohe>"
+	"mohe" v intrans @root #5->0
+"<e>"
+	"e" sdef @det #6->7
+"<kuli>"
+	"kuli" n sg @nsubj #7->5
+
+
+"<naʻa>"
+	"naʻa" vaux past @aux #1->3
+"<ku>"
+	"ku" prn prepd p1 fti excl pl @nsubj #2->3
+"<tuli>"
+	"tuli" v intrans @root #3->0
+"<ʻa>"
+	"ʻa" abs @case #4->6
+"<e>"
+	"e" sdef @det #5->6
+"<kuli>"
+	"kuli" n sg @obj #6->3
+
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<tuli>"
+	"tuli" v trans @root #2->0
+"<au>"
+	"au" prn postd pl excl sg @obj #3->2
+"<ʻe>"
+	"ʻe" erg @case #4->5
+"<he>"
+	"he" sdef @det #5->6
+"<kuli>"
+	"kuli" n sg @nsubj #6->2
+
+
+"<ʻoku>"
+	"ʻoku" vaux pres @aux #1->3
+"<ʻi>"
+	"ʻi" pr @case #2->3
+"<ai>"
+	"ai" n @root #3->0
+"<ha>"
+	"ha" ind @det #4->5
+"<maa>"
+	"maa" n sg @nsubj #5->3
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->4
+"<ʻikai>"
+	"ʻikai" neg @advmod #2->4
+"<ke>"
+	"ke" prn prepd p2 sg @amod #3->9
+"<sio>"
+	"sio" v intrans @root #4->0
+"<ʻa>"
+	"ʻa" abs @case #5->6
+"<Sione>"
+	"Sione" n @nsubj #6->4
+"<ki>"
+	"ki" pr @case #7->9
+"<ha>"
+	"ha" ind @det #8->9
+"<taha>"
+	"taha" n sg @obj #9->4
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<ʻalu>"
+	"ʻalu" v intrans @root #2->0
+"<ʻa>"
+	"ʻa" abs @case #3->4
+"<Sione>"
+	"Sione" np @nsubj #4->2
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<kai>"
+	"kai" v trans @root #2->0
+"<ʻe>"
+	"ʻe" erg @case #3->4
+"<Sione>"
+	"Sione" np @nsubj #4->2
+"<ʻa>"
+	"ʻa" abs @case #5->7
+"<e>"
+	"e" sdef @det #6->7
+"<mango>"
+	"mango" n sg @obj #7->2
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<ʻalu>"
+	"ʻalu" v intrans @root #2->0
+"<ʻa>"
+	"ʻa" abs @case #3->4
+"<Sione>"
+	"Sione" np @subj #4->2
+"<ki>"
+	"ki" pr @case #5->6
+"<Tonga>"
+	"Tonga" np @obj #6->2
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<kai>"
+	"kai" v trans @root #2->0
+"<ʻe>"
+	"ʻe" erg @case #3->4
+"<Sione>"
+	"Sione" np @nsubj #4->2
+"<ʻa>"
+	"ʻa" abs @case #5->7
+"<e>"
+	"e" sdef @det #6->7
+"<ika>"
+	"ika" n sg @obj #7->2
+
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<tokoni>"
+	"tokoni" v intrans @root #2->0
+"<ʻa>"
+	"ʻa" abs @case #3->4
+"<Sione>"
+	"Sione" np @nsubj #4->2
+"<ki>"
+	"ki" pr @case #4->6
+"<he>"
+	"he" sdef @det #5->6
+"<faiako>"
+	"faiako" n sg @obj #6->2
+"<.>"
+	"." sent
+
+
+"<naʻe>"
+	"naʻe" vaux past @aux #1->2
+"<motuʻa>" 
+	"motuʻa" adj prenom @amod #2->0
+"<ʻeku>" 
+	"ʻeku" poss prn @amod #3->4
+"<tohi>"
+	"tohi" n sg @nsubj #4->2
+
+
+

@@ -1,0 +1,156 @@
+# sent_id = prefix:1:0
+# text = naʻa ku kaukau he vai ʻoku ʻofa ʻa e tamai he ʻofefine
+1	naʻa	naʻa	_	vaux	past	2	X	_	_
+2	ku	ku	_	prn	prepd|p1|fti|excl|pl	3	nsubj	_	_
+3	kaukau	kaukau	_	v	intrans	0	root	_	_
+4	he	he	_	sdef	_	5	det	_	_
+5	vai	vai	_	n	sg	1	nmod	_	_
+6	ʻoku	ʻoku	_	vaux	pres	2	aux	_	_
+7	ʻofa	ʻofa	_	v	intrans	0	root	_	_
+8	ʻa	ʻa	_	abs	_	2	case	_	_
+9	e	e	_	sdef	_	5	det	_	_
+10	tamai	tamai	_	n	sg	2	nsubj	_	_
+11	he	he	_	sdef	_	7	det	_	_
+12	ʻofefine	ʻofefine	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:2:24
+# text = naʻe lotomamahi ʻa Sione
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	lotomamahi	lotomamahi	_	v	intrans	0	root	_	_
+3	ʻa	ʻa	_	abs	_	2	case	_	_
+4	Sione	Sione	_	np	_	2	nsubj	_	_
+
+# sent_id = prefix:3:34
+# text = naʻe tuli ʻe he sikulele e kuli
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	tuli	tuli	_	v	trans	0	root	_	_
+3	ʻe	ʻe	_	erg	_	2	case	_	_
+4	he	he	_	sdef	_	5	det	_	_
+5	sikulele	sikulele	_	n	sg	2	nsubj	_	_
+6	e	e	_	sdef	_	7	det	_	_
+7	kuli	kuli	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:4:50
+# text = naʻe tuli au ʻe he kuli
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	tuli	tuli	_	v	trans	0	root	_	_
+3	au	au	_	prn	postd|pl|excl|sg	2	obj	_	_
+4	ʻe	ʻe	_	erg	_	2	case	_	_
+5	he	he	_	sdef	_	6	det	_	_
+6	kuli	kuli	_	n	sg	2	nsunj	_	_
+
+# sent_id = prefix:5:64
+# text = naʻe tuli ʻe he manupuna ʻa e sikulele
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	tuli	tuli	_	v	trans	0	root	_	_
+3	ʻe	ʻe	_	vaux	fti	2	case	_	_
+4	he	he	_	sdef	_	5	det	_	_
+5	manupuna	manupuna	_	n	sg	2	nsubj	_	_
+6	ʻa	ʻa	_	abs	_	2	case	_	_
+7	e	e	_	sdef	_	8	det	_	_
+8	sikulele	sikulele	_	n	sg	2	nsubj	_	_
+
+# sent_id = prefix:6:82
+# text = naʻe mohe e kuli ʻi he hala
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	mohe	mohe	_	v	intrans	0	root	_	_
+3	e	e	_	sdef	_	4	det	_	_
+4	kuli	kuli	_	n	sg	2	nsubj	_	_
+5	ʻi	ʻi	_	pr	_	7	case	_	_
+6	he	he	_	sdef	_	7	det	_	_
+7	hala	hala	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:7:98
+# text = ʻi he hala naʻe mohe e kuli
+1	ʻi	ʻi	_	pr	_	3	case	_	_
+2	he	he	_	sdef	_	3	det	_	_
+3	hala	hala	_	n	sg	7	nmod	_	_
+4	naʻe	naʻe	_	vaux	past	5	aux	_	_
+5	mohe	mohe	_	v	intrans	0	root	_	_
+6	e	e	_	sdef	_	7	det	_	_
+7	kuli	kuli	_	n	sg	5	nsubj	_	_
+
+# sent_id = prefix:8:114
+# text = naʻa ku tuli ʻa e kuli
+1	naʻa	naʻa	_	vaux	past	3	aux	_	_
+2	ku	ku	_	prn	prepd|p1|fti|excl|pl	3	nsubj	_	_
+3	tuli	tuli	_	v	intrans	0	root	_	_
+4	ʻa	ʻa	_	abs	_	6	case	_	_
+5	e	e	_	sdef	_	6	det	_	_
+6	kuli	kuli	_	n	sg	3	obj	_	_
+
+# sent_id = prefix:9:128
+# text = naʻe tuli au ʻe he kuli
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	tuli	tuli	_	v	trans	0	root	_	_
+3	au	au	_	prn	postd|pl|excl|sg	2	obj	_	_
+4	ʻe	ʻe	_	erg	_	5	case	_	_
+5	he	he	_	sdef	_	6	det	_	_
+6	kuli	kuli	_	n	sg	2	nsubj	_	_
+
+# sent_id = prefix:10:142
+# text = ʻoku ʻi ai ha maa
+1	ʻoku	ʻoku	_	vaux	pres	3	aux	_	_
+2	ʻi	ʻi	_	pr	_	3	case	_	_
+3	ai	ai	_	n	_	0	root	_	_
+4	ha	ha	_	ind	_	5	det	_	_
+5	maa	maa	_	n	sg	3	nsubj	_	_
+
+# sent_id = prefix:11:154
+# text = naʻe ʻikai ke sio ʻa Sione ki ha taha
+1	naʻe	naʻe	_	vaux	past	4	aux	_	_
+2	ʻikai	ʻikai	_	neg	_	4	advmod	_	_
+3	ke	ke	_	prn	prepd|p2|sg	9	amod	_	_
+4	sio	sio	_	v	intrans	0	root	_	_
+5	ʻa	ʻa	_	abs	_	6	case	_	_
+6	Sione	Sione	_	n	_	4	nsubj	_	_
+7	ki	ki	_	pr	_	9	case	_	_
+8	ha	ha	_	ind	_	9	det	_	_
+9	taha	taha	_	n	sg	4	obj	_	_
+
+# sent_id = prefix:12:173
+# text = naʻe ʻalu ʻa Sione
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	ʻalu	ʻalu	_	v	intrans	0	root	_	_
+3	ʻa	ʻa	_	abs	_	4	case	_	_
+4	Sione	Sione	_	np	_	2	nsubj	_	_
+
+# sent_id = prefix:13:182
+# text = naʻe kai ʻe Sione ʻa e mango
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	kai	kai	_	v	trans	0	root	_	_
+3	ʻe	ʻe	_	erg	_	4	case	_	_
+4	Sione	Sione	_	np	_	2	nsubj	_	_
+5	ʻa	ʻa	_	abs	_	7	case	_	_
+6	e	e	_	sdef	_	7	det	_	_
+7	mango	mango	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:14:197
+# text = naʻe ʻalu ʻa Sione ki Tonga
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	ʻalu	ʻalu	_	v	intrans	0	root	_	_
+3	ʻa	ʻa	_	abs	_	4	case	_	_
+4	Sione	Sione	_	np	_	2	subj	_	_
+5	ki	ki	_	pr	_	6	case	_	_
+6	Tonga	Tonga	_	np	_	2	obj	_	_
+
+# sent_id = prefix:15:210
+# text = naʻe kai ʻe Sione ʻa e ika
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	kai	kai	_	v	trans	0	root	_	_
+3	ʻe	ʻe	_	erg	_	4	case	_	_
+4	Sione	Sione	_	np	_	2	nsubj	_	_
+5	ʻa	ʻa	_	abs	_	7	case	_	_
+6	e	e	_	sdef	_	7	det	_	_
+7	ika	ika	_	n	sg	2	obj	_	_
+
+# sent_id = prefix:17:243
+# text = naʻe motuʻa ʻeku tohi
+1	naʻe	naʻe	_	vaux	past	2	aux	_	_
+2	motuʻa	motuʻa	_	adj	prenom	0	amod	_	_
+3	ʻeku	ʻeku	_	poss	prn	4	amod	_	_
+4	tohi	tohi	_	n	sg	2	nsubj	_	_
+
+
+
+

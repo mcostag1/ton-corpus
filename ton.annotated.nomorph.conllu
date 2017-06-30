@@ -1,0 +1,271 @@
+# sent_id = prefix:1:0
+# text = Teu ta ki he polise
+1	Teu	_	_	_	_	0	root	_	_
+2	ta	_	_	_	_	1	nsubj	_	_
+3	ki	_	_	_	_	5	case	_	_
+4	he	_	_	_	_	5	det	_	_
+5	polise	_	_	_	_	1	obj	_	_
+
+# sent_id = prefix:2:10
+# text = naʻe sio ʻa e kuli ki he sikulele
+1	naʻe	_	_	_	_	2	aux	_	_
+2	sio	_	_	_	_	0	root	_	_
+3	ʻa	_	_	_	_	5	case	_	_
+4	e	_	_	_	_	5	case	_	_
+5	kuli	_	_	_	_	2	nsubj	_	_
+6	ki	_	_	_	_	7	case	_	_
+7	he	_	_	_	_	7	det	_	_
+8	sikulele	_	_	_	_	2	obj	_	_
+
+
+# sent_id = prefix:4:44
+# text = naʻe tangutu ʻa e pusi ʻi he funga maka
+1	naʻe	_	_	_	_	2	aux	_	_
+2	tangutu	_	_	_	_	0	root	_	_
+3	ʻa	_	_	_	_	5	case	_	_
+4	e	_	_	_	_	5	det	_	_
+5	pusi	_	_	_	_	2	nsubj	_	_
+6	ʻi	_	_	_	_	9	case	_	_
+7	he	_	_	_	_	9	det	_	_
+8	funga	_	_	_	_	9	nmod	_	_
+9	maka	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:5:64
+# text = naʻe ongoʻi ʻe he kuli ʻa e manupuna
+1	naʻe	_	_	_	_	2	aux	_	_
+2	ongoʻi	_	_	_	_	0	root	_	_
+3	ʻe	_	_	_	_	5	case	_	_
+4	he	_	_	_	_	5	det	_	_
+5	kuli	_	_	_	_	2	nsubj	_	_
+6	ʻa	_	_	_	_	8	case	_	_
+7	e	_	_	_	_	8	det	_	_
+8	manupuna	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:6:81
+# text = naʻe fanongo ʻa e kuli ki he manupuna
+1	naʻe	_	_	_	_	2	aux	_	_
+2	fanongo	_	_	_	_	0	root	_	_
+3	ʻa	_	_	_	_	5	case	_	_
+4	e	_	_	_	_	5	det	_	_
+5	kuli	_	_	_	_	2	nsubj	_	_
+6	ki	_	_	_	_	8	case	_	_
+7	he	_	_	_	_	8	det	_	_
+8	manupuna	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:7:98
+# text = naʻe kakau ha fonu kovi ki Tongatapu
+1	naʻe	_	_	_	_	2	aux	_	_
+2	kakau	_	_	_	_	0	root	_	_
+3	ha	_	_	_	_	4	det	_	_
+4	fonu	_	_	_	_	2	nsubj	_	_
+5	kovi	_	_	_	_	4	X	_	_
+6	ki	_	_	_	_	7	case	_	_
+7	Tongatapu	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:8:113
+# text = naʻe tekeʻi ʻe he tamasiʻi ʻa e taʻahine
+1	naʻe	_	_	_	_	2	aux	_	_
+2	tekeʻi	_	_	_	_	0	root	_	_
+3	ʻe	_	_	_	_	5	case	_	_
+4	he	_	_	_	_	5	det	_	_
+5	tamasiʻi	_	_	_	_	2	nsubj	_	_
+6	ʻa	_	_	_	_	8	case	_	_
+7	e	_	_	_	_	8	det	_	_
+8	taʻahine	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:9:131
+# text = naʻe siofi ʻe ha sikulele ʻa Pulotu
+1	naʻe	_	_	_	_	2	aux	_	_
+2	siofi	_	_	_	_	0	root	_	_
+3	ʻe	_	_	_	_	5	case	_	_
+4	ha	_	_	_	_	5	det	_	_
+5	sikulele	_	_	_	_	2	nsubj	_	_
+6	ʻa	_	_	_	_	7	case	_	_
+7	Pulotu	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:10:146
+# text = naʻe tekeʻi ʻe ha fuʻu kuli ha kiʻi ngoue
+1	naʻe	_	_	_	_	2	aux	_	_
+2	tekeʻi	_	_	_	_	0	root	_	_
+3	ʻe	_	_	_	_	5	case	_	_
+4	ha	_	_	_	_	5	det	_	_
+5	fuʻu	_	_	_	_	6	amod	_	_
+6	kuli	_	_	_	_	2	nsubj	_	_
+7	ha	_	_	_	_	9	det	_	_
+8	kiʻi	_	_	_	_	9	amod	_	_
+9	ngoue	_	_	_	_	2	obj	_	_
+
+
+# sent_id = prefix:12:186
+# text =  naʻe mohe ʻa e tangata naʻa ne kai e sisi
+1	naʻe	_	_	_	_	2	aux	_	_
+2	mohe	_	_	_	_	0	root	_	_
+3	ʻa	_	_	_	_	5	case	_	_
+4	e	_	_	_	_	5	det	_	_
+5	tangata	_	_	_	_	2	nsubj	_	_
+6	naʻa	_	_	_	_	8	aux	_	_
+7	ne	_	_	_	_	5	nmod	_	_
+8	kai	_	_	_	_	7	expl	_	_
+9	e	_	_	_	_	10	det	_	_
+10	sisi	_	_	_	_	8	obj	_	_
+
+
+# sent_id = prefix:13:207
+# text = naʻe kaka he ʻakau ʻa e sikulele naʻe tuli ʻe he kuli
+1	naʻe	_	_	_	_	2	aux	_	_
+2	kaka	_	_	_	_	0	root	_	_
+3	he	_	_	_	_	4	det	_	_
+4	ʻakau	_	_	_	_	2	obj	_	_
+5	ʻa	_	_	_	_	7	case	_	_
+6	e	_	_	_	_	7	det	_	_
+7	sikulele	_	_	_	_	2	nsubj	_	_
+8	naʻe	_	_	_	_	9	aux	_	_
+9	tuli	_	_	_	_	12	expl	_	_
+10	ʻe	_	_	_	_	12	case	_	_
+11	he	_	_	_	_	12	det	_	_
+12	kuli	_	_	_	_	9	obj	_	_
+
+
+# sent_id = prefix:14:232
+# text = ʻOku nau lata kinautolu
+1	ʻOku	_	_	_	_	2	aux	_	_
+2	nau	_	_	_	_	3	nsubj	_	_
+3	lata	_	_	_	_	0	root	_	_
+4	kinautolu	_	_	_	_	3	nsubj	_	_
+
+# sent_id = prefix:15:241
+# text = Ko e ʻapi pē ʻoʻoku
+1	Ko	_	_	_	_	5	case	_	_
+2	e	_	_	_	_	3	det	_	_
+3	ʻapi	_	_	_	_	4	nsubj	_	_
+4	pē	_	_	_	_	5	advmod	_	_
+5	ʻoʻoku	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:16:252
+# text = ʻOku ou kai ika
+1	ʻOku	_	_	_	_	3	aux	_	_
+2	ou	_	_	_	_	3	nsubj	_	_
+3	kai	_	_	_	_	0	root	_	_
+4	ika	_	_	_	_	3	obj	_	_
+
+# sent_id = prefix:17:261
+# text =  Ko hai ʻoku ʻoʻona e fale ni
+1	Ko	_	_	_	_	2	case	_	_
+2	hai	_	_	_	_	0	root	_	_
+3	ʻoku	_	_	_	_	2	aux	_	_
+4	ʻoʻona	_	_	_	_	6	amod	_	_
+5	e	_	_	_	_	7	det	_	_
+6	fale	_	_	_	_	6	obj	_	_
+7	ni	_	_	_	_	6	det	_	_
+
+# sent_id = prefix:18:276
+# text = Fēfē hake
+1	Fēfē	_	_	_	_	0	root	_	_
+2	hake	_	_	_	_	1	case	_	_
+
+# sent_id = prefix:19:281
+# text = ʻOku ma fiefia
+1	ʻOku	_	_	_	_	3	aux	_	_
+2	ma	_	_	_	_	3	nsubj	_	_
+3	fiefia	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:20:288
+# text = ʻOku kakau ha kuli pea ha poto
+1	ʻOku	_	_	_	_	2	aux	_	_
+2	kakau	_	_	_	_	0	root	_	_
+3	ha	_	_	_	_	4	det	_	_
+4	kuli	_	_	_	_	2	nsubj	_	_
+5	pea	_	_	_	_	6	cc	_	_
+6	ha	_	_	_	_	7	det	_	_
+7	poto	_	_	_	_	4	X	_	_
+
+# sent_id = prefix:21:303
+# text = ʻOku puke ʻa e fanga kuli
+1	ʻOku	_	_	_	_	2	aux	_	_
+2	puke	_	_	_	_	0	root	_	_
+3	ʻa	_	_	_	_	4	X	_	_
+4	e	_	_	_	_	5	det	_	_
+5	fanga	_	_	_	_	6	amod	_	_
+6	kuli	_	_	_	_	2	X	_	_
+
+# sent_id = prefix:22:316
+# text = ʻOku ʻuliʻuli e ongo puaka
+1	ʻOku	_	_	_	_	2	aux	_	_
+2	ʻuliʻuli	_	_	_	_	0	root	_	_
+3	e	_	_	_	_	5	det	_	_
+4	ongo	_	_	_	_	5	amod	_	_
+5	puaka	_	_	_	_	2	nsubj	_	_
+
+# sent_id = prefix:23:327
+# text =  Sai pē
+1	Sai	_	_	_	_	0	root	_	_
+2	pē	_	_	_	_	1	advmod	_	_
+
+# sent_id = prefix:24:332
+# text = ʻOku ou tamateʻi e ʻanga
+1	ʻOku	_	_	_	_	3	aux	_	_
+2	ou	_	_	_	_	3	nsubj	_	_
+3	tamateʻi	_	_	_	_	0	root	_	_
+4	e	_	_	_	_	5	det	_	_
+5	ʻanga	_	_	_	_	3	obj	_	_
+
+# sent_id = prefix:25:343
+# text =  ʻOku tau ilifia
+1	ʻOku	_	_	_	_	2	aux	_	_
+2	tau	_	_	_	_	0	root	_	_
+3	ilifia	_	_	_	_	2	amod	_	_
+
+
+# sent_id = prefix:26:3
+# text = ʻOku fuʻu e tamasiʻi
+1	ʻOku	_	_	_	_	2	aux	_	_
+2	fuʻu	_	_	_	_	0	root	_	_
+3	e	_	_	_	_	4	det	_	_
+4	tamasiʻi	_	_	_	_	2	nsubj	_	_
+
+
+# sent_id = prefix:28:368
+# text =  ʻOku ʻikai te fiefia
+1	ʻOku	_	_	_	_	4	aux	_	_
+2	ʻikai	_	_	_	_	4	amod	_	_
+3	te	_	_	_	_	4	nsubj	_	_
+4	fiefia	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:29:377
+# text = ʻOku ʻikai ke vaivai
+1	ʻOku	_	_	_	_	4	aux	_	_
+2	ʻikai	_	_	_	_	4	amod	_	_
+3	ke	_	_	_	_	4	nsubj	_	_
+4	vaivai	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:30:386
+# text = ʻOku ou inu vai
+1	ʻOku	_	_	_	_	3	aux	_	_
+2	ou	_	_	_	_	3	nsubj	_	_
+3	inu	_	_	_	_	0	root	_	_
+4	vai	_	_	_	_	3	obj	_	_
+
+# sent_id = prefix:31:395
+# text =  ʻOku ʻuha
+1	ʻOku	_	_	_	_	2	aux	_	_
+2	ʻuha	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:32:400
+# text =  ʻOku vela ʻaupito ʻi he ʻaho ni
+1	ʻOku	_	_	_	_	2	aux	_	_
+2	vela	_	_	_	_	7	amod	_	_
+3	ʻaupito	_	_	_	_	0	root	_	_
+4	ʻi	_	_	_	_	6	case	_	_
+5	he	_	_	_	_	6	det	_	_
+6	ʻaho	_	_	_	_	2	nsubj	_	_
+7	ni	_	_	_	_	6	det	_	_
+
+# sent_id = prefix:33:415
+# text =  Siʻaku puaka
+1	Siʻaku	_	_	_	_	2	amod	_	_
+2	puaka	_	_	_	_	0	root	_	_
+
+
+
+
+
